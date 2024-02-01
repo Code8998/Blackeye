@@ -1,0 +1,26 @@
+                            WARNING!!
+             This is only foe educational purpose! 
+                    Do not use it illegaly
+
+Clone Repository Method  (Online Method)
+
+1. In Github click on code button.
+2. Click on the copy button to copy the git.
+3. go to your terminal and type "git clone" and then paste that link in it and press enter.
+4. The git will  download in few seconds.
+5. Now type "cd" to change your directory and select the directory in which that git is downloaded.
+6.Now type this in your terminal 'bash blackeye.sh'.
+
+Download the zip of Git Method (Offline Method)
+
+1. In Github click on code button.
+2. Click on download zip
+3.Extract that zip file
+4.Now open the terminal in that folder in which blackeye.sh exist.
+5.Now in terminal type "bash blackeye.sh"
+
+                              
+
+
+
+
